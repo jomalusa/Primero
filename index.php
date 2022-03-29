@@ -16,6 +16,9 @@ h1{
 </style>
 <body>
     <h1>Este es un Hola Mundo</h1>
+<?php
+    echo "Esto es un coñito";
+?>
 
 </body>
 </html>
